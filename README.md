@@ -16,7 +16,7 @@ Vous devrez parcourir plusieurs obstacles pour pouvoir accomplir votre tache :)
 `Espace` -- > Sauter   
 `Tab` --> Sprinter
 
-## Interace
+## Interface
 
 ![Spartan](/Spartan_run.PNG)
 
