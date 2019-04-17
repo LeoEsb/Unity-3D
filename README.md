@@ -18,7 +18,7 @@ Vous devrez parcourir plusieurs obstacles pour pouvoir accomplir votre tache :)
 
 ## Interace
 
-![GitHub Logo](/spartan_run.png)
+![Spartan](/Spartan_run.PNG)
 
 ## Utilisation
 
